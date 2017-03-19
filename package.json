@@ -1,0 +1,8 @@
+{
+  "name": "basic-routing-without-expressjs",
+  "version": "1.0.0",
+  "description": "NodeJS & ExpressJS Projects - Basic routing without ExpressJS",
+  "main": "app.js",
+  "author": "Lawrence4code",
+  "license": "MIT"
+}
